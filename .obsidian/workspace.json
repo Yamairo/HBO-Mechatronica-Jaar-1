@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "d4a35040f8c7865c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a78f071471ab6b3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c0df686f6eb7721",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "0f4f487526765622",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Methodisch Ontwerpen/Les 1.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "88400c420e2618f3"
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "e3cdbab21b37e4ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd0a4a6afbb5b122",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Methodisch Ontwerpen/Les 1.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "88400c420e2618f3"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e55927003c81342f",
+    "type": "split",
+    "children": [
+      {
+        "id": "30bca1b2289679eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c45061857eda27e8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "617b02984335ad36",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c20d51c0b2df5924",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "556d6bd278b78e64",
+    "type": "split",
+    "children": [
+      {
+        "id": "9dc64dbf42545eee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd8730b1d4783382",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Methodisch Ontwerpen/Les 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "680fd53747989a9c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Methodisch Ontwerpen/Les 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bcf0a61a9d8e6689",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f5d02416b5154e99",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Methodisch Ontwerpen/Les 1.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0f4f487526765622",
+  "lastOpenFiles": [
+    "README.md",
+    "Methodisch Ontwerpen",
+    "Methodisch Ontwerpen/Les 1.md"
+  ]
+}
