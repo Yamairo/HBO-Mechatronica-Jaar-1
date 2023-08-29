@@ -1,4 +1,13 @@
 [
   "obsidian-dynamic-toc",
-  "obsidian-git"
+  "obsidian-git",
+  "code-block-copy",
+  "obsidian-checklist-plugin",
+  "dataview",
+  "easy-typing-obsidian",
+  "cm-editor-syntax-highlight-obsidian",
+  "mermaid-tools",
+  "quick-latex",
+  "symbols-prettifier",
+  "various-complements"
 ]
