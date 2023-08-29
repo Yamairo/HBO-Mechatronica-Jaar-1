@@ -47,11 +47,27 @@
   },
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "MAC-addres": {
-      "MAC-addres": {
+    "\\end{align}": {
+      "\\end{align}": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1686778721363
+          "count": 4,
+          "lastUpdated": 1693311685068
+        }
+      }
+    },
+    "\\begin{align}": {
+      "\\begin{align}": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1693311679493
+        }
+      }
+    },
+    "\\sqrt{F_{x}^{2}+F_{y}^{2}}\\\\": {
+      "\\sqrt{F_{x}^{2}+F_{y}^{2}}\\\\": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1693311724069
         }
       }
     }

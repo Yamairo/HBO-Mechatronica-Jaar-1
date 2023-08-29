@@ -8,27 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5c0df686f6eb7721",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "0f4f487526765622",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Methodisch Ontwerpen/Les 1.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "88400c420e2618f3"
-          },
-          {
             "id": "adc1995b94fd1461",
             "type": "leaf",
             "state": {
@@ -38,27 +17,47 @@
                 "mode": "source",
                 "source": true
               }
+            },
+            "group": "7fb5307689b71313"
+          },
+          {
+            "id": "112c067a7b9ae532",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Voorbeeld 3.md"
+              }
+            }
+          },
+          {
+            "id": "a0122c1962c2fce6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/voorbeeld 2.md"
+              }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
-        "id": "e3cdbab21b37e4ee",
+        "id": "4484612c3b4e5faa",
         "type": "tabs",
         "children": [
           {
-            "id": "bd0a4a6afbb5b122",
+            "id": "c668caccc6ca304e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Methodisch Ontwerpen/Les 1.md",
-                "mode": "preview",
+                "file": "Statica/Les 1.md",
+                "mode": "source",
                 "source": false
               }
             },
-            "group": "88400c420e2618f3"
+            "group": "7fb5307689b71313"
           }
         ]
       }
@@ -110,7 +109,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "556d6bd278b78e64",
@@ -193,13 +193,20 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4c44dbe7adb618ba",
+  "active": "adc1995b94fd1461",
   "lastOpenFiles": [
-    "Methodisch Ontwerpen/Les 1.md",
+    "Excalidraw/Voorbeeld 3.md",
     "Statica/Les 1.md",
+    "Excalidraw/voorbeeld 2.md",
+    "Excalidraw/Voorbeeld 1.md",
+    "Excalidraw",
+    "Pasted image 20230829133033.png",
+    "Methodisch Ontwerpen/Les 1.md",
     "Statica",
     "README.md",
     "Methodisch Ontwerpen"
