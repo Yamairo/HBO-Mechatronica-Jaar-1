@@ -5,7 +5,10 @@
 ## Krachten
 
 ![[Pasted image 20230829133033.png]]
-Uit de eenheidscirkel 
+Uit de eenheidscirkel volgen de volgende formules
+$\Sigma F_{x} = F\cdot\cos(\theta)$
+En
+$\Sigma F_{y} = F\cdot\sin(\theta)$
 
 ---
 ### Voorbeeld 1

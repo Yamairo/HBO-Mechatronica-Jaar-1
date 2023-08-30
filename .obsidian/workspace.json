@@ -21,6 +21,18 @@
             "group": "7fb5307689b71313"
           },
           {
+            "id": "70a5bd77a17d785a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "112c067a7b9ae532",
             "type": "leaf",
             "state": {
@@ -40,7 +52,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "4484612c3b4e5faa",
@@ -109,8 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "556d6bd278b78e64",
@@ -126,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statica/Les 1.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statica/Les 1.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Statica/Les 1.md"
+                "file": "Index.md"
               }
             }
           },
@@ -198,10 +210,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "adc1995b94fd1461",
+  "active": "70a5bd77a17d785a",
   "lastOpenFiles": [
-    "Excalidraw/Voorbeeld 3.md",
     "Statica/Les 1.md",
+    "Index.md",
+    "Untitled",
+    "Excalidraw/Voorbeeld 3.md",
     "Excalidraw/voorbeeld 2.md",
     "Excalidraw/Voorbeeld 1.md",
     "Excalidraw",

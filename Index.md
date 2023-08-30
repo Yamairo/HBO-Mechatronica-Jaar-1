@@ -1,0 +1,4 @@
+# Vakken
+
+[]Statica
+Methodisch Ontwerpen
