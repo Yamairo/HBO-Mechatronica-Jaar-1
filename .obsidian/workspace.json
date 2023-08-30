@@ -8,69 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "adc1995b94fd1461",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statica/Les 1.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "7fb5307689b71313"
-          },
-          {
             "id": "70a5bd77a17d785a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "Elektrische netwerken/Les 1.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
-            }
-          },
-          {
-            "id": "112c067a7b9ae532",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Voorbeeld 3.md"
-              }
-            }
-          },
-          {
-            "id": "a0122c1962c2fce6",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/voorbeeld 2.md"
-              }
-            }
+            },
+            "group": "1af4013c990c81bc"
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "4484612c3b4e5faa",
+        "id": "9da2e4fc73b2c780",
         "type": "tabs",
         "children": [
           {
-            "id": "c668caccc6ca304e",
+            "id": "4b3b10380c6a2077",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statica/Les 1.md",
-                "mode": "source",
-                "source": false
+                "file": "Elektrische netwerken/Les 1.md",
+                "mode": "preview",
+                "source": true
               }
             },
-            "group": "7fb5307689b71313"
+            "group": "1af4013c990c81bc"
           }
         ]
       }
@@ -138,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Elektrische netwerken/Les 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Elektrische netwerken/Les 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Elektrische netwerken/Les 1.md"
               }
             }
           },
@@ -212,14 +179,27 @@
   },
   "active": "70a5bd77a17d785a",
   "lastOpenFiles": [
-    "Statica/Les 1.md",
+    "Tangents/Ideale stroommeter.md",
+    "Elektrische netwerken/Les 1.md",
+    "Tangents/Ideale spanningsmeter.md",
+    "Tangents/Spanningswet van Kirchhoff.md",
+    "Tangents/Stroomwet van Kirchhoff.md",
+    "Bijlages/Pasted image 20230830142322.png",
+    "Bijlages/Pasted image 20230830142156.png",
+    "Bijlages/Pasted image 20230830142131.png",
+    "Tangents/Stroom.md",
+    "Tangents/Spanning.md",
+    "Tangents",
+    "Methodisch Ontwerpen/Index",
+    "Bijlages",
     "Index.md",
-    "Untitled",
     "Excalidraw/Voorbeeld 3.md",
     "Excalidraw/voorbeeld 2.md",
+    "Elektrische netwerken",
+    "Statica/Les 1.md",
     "Excalidraw/Voorbeeld 1.md",
     "Excalidraw",
-    "Pasted image 20230829133033.png",
+    "Bijlages/Pasted image 20230829133033.png",
     "Methodisch Ontwerpen/Les 1.md",
     "Statica",
     "README.md",

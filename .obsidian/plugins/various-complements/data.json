@@ -70,6 +70,78 @@
           "lastUpdated": 1693311724069
         }
       }
+    },
+    "coulomb": {
+      "coulomb": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1693395344814
+        }
+      }
+    },
+    "Parallelschakeling": {
+      "Parallelschakeling": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1693397626656
+        }
+      }
+    },
+    "parallelschakeling": {
+      "parallelschakeling": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1693397649661
+        }
+      }
+    },
+    "Serieschakeling": {
+      "Serieschakeling": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1693397702955
+        }
+      }
+    },
+    "Spanning": {
+      "Spanning": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1693398490617
+        }
+      }
+    },
+    "kirchhoff": {
+      "kirchhoff": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1693398130964
+        }
+      }
+    },
+    "parallel": {
+      "parallel": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1693398447126
+        }
+      }
+    },
+    "Ideale draad": {
+      "Ideale draad": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1693398506382
+        }
+      }
+    },
+    "Huiswerk": {
+      "Huiswerk": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1693398592611
+        }
+      }
     }
   }
 }
