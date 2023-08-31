@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a78f071471ab6b3f",
+        "id": "f7dc2a1da983a2bd",
         "type": "tabs",
         "children": [
           {
-            "id": "70a5bd77a17d785a",
+            "id": "cdf283f63819d723",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,16 +18,16 @@
                 "source": true
               }
             },
-            "group": "1af4013c990c81bc"
+            "group": "3633218c88d14c9b"
           }
         ]
       },
       {
-        "id": "9da2e4fc73b2c780",
+        "id": "12267321868a3e50",
         "type": "tabs",
         "children": [
           {
-            "id": "4b3b10380c6a2077",
+            "id": "a0d60eab6623a8c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -37,7 +37,7 @@
                 "source": true
               }
             },
-            "group": "1af4013c990c81bc"
+            "group": "3633218c88d14c9b"
           }
         ]
       }
@@ -177,32 +177,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "70a5bd77a17d785a",
+  "active": "cdf283f63819d723",
   "lastOpenFiles": [
-    "Tangents/Ideale stroommeter.md",
+    "Elektrische netwerken/PDF/Les 1.pdf",
+    "Elektrische netwerken/PDF",
+    "Elektrische netwerken/Nieuwe map",
+    "Tangents/Ideale draad.md",
     "Elektrische netwerken/Les 1.md",
+    "Tangents/Stroom.md",
+    "Communicatieve Vaardigheden/Les 1.md",
+    "Microcontrollers programmeren/Les 1.md",
+    "Communicatieve Vaardigheden",
+    "Tangents/Operators.md",
+    "Boeken/make_avrprogramming.pdf",
+    "Microcontrollers programmeren/Code/Les 1 Microcontrollers programmeren/Les_1/main.c",
+    "Microcontrollers programmeren/Code/Les 1 Microcontrollers programmeren/Les_1/Les_1.cbp",
+    "Microcontrollers programmeren/Code/Les 1 Microcontrollers programmeren/Les_1",
+    "Microcontrollers programmeren/Code/Les 1 Microcontrollers programmeren/Les 1 Microcontrollers programmeren.layout",
+    "Microcontrollers programmeren/Code/Les 1 Microcontrollers programmeren/main.c",
+    "Microcontrollers programmeren/Code/Les 1 Microcontrollers programmeren/Les 1 Microcontrollers programmeren.cbp",
+    "Statica/Les 1.md",
+    "Tangents/Variabele.md",
+    "Tangents/Invoer variable.md",
+    "Tangents/Eisen aan variabele namen.md",
+    "Tangents/Formatted strings.md",
+    "Tangents/Ideale stroommeter.md",
     "Tangents/Ideale spanningsmeter.md",
     "Tangents/Spanningswet van Kirchhoff.md",
     "Tangents/Stroomwet van Kirchhoff.md",
     "Bijlages/Pasted image 20230830142322.png",
     "Bijlages/Pasted image 20230830142156.png",
     "Bijlages/Pasted image 20230830142131.png",
-    "Tangents/Stroom.md",
     "Tangents/Spanning.md",
-    "Tangents",
-    "Methodisch Ontwerpen/Index",
-    "Bijlages",
     "Index.md",
     "Excalidraw/Voorbeeld 3.md",
     "Excalidraw/voorbeeld 2.md",
-    "Elektrische netwerken",
-    "Statica/Les 1.md",
     "Excalidraw/Voorbeeld 1.md",
-    "Excalidraw",
     "Bijlages/Pasted image 20230829133033.png",
     "Methodisch Ontwerpen/Les 1.md",
-    "Statica",
-    "README.md",
-    "Methodisch Ontwerpen"
+    "README.md"
   ]
 }

@@ -5,5 +5,11 @@
   "livePreview": false,
   "defaultViewMode": "preview",
   "newFileLocation": "folder",
-  "newFileFolderPath": "Tangents"
+  "newFileFolderPath": "Tangents",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

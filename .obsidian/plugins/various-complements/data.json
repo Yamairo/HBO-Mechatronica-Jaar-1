@@ -142,6 +142,54 @@
           "lastUpdated": 1693398592611
         }
       }
+    },
+    "cijfers": {
+      "cijfers": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1693473118744
+        }
+      }
+    },
+    "Return": {
+      "Return": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1693473223669
+        }
+      }
+    },
+    "Variabele": {
+      "Variabele": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1693473673421
+        }
+      }
+    },
+    "huidig_jaar": {
+      "huidig_jaar": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1693474581802
+        }
+      }
+    },
+    "geboortejaar": {
+      "geboortejaar": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1693474586442
+        }
+      }
+    },
+    "printf": {
+      "printf": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1693474592019
+        }
+      }
     }
   }
 }
