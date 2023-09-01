@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elektrische netwerken/Les 1.md",
+                "file": "Elektrische netwerken/Netweken (practicum)/DC_Week_1_prj/Vragen.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elektrische netwerken/Les 1.md",
+                "file": "Elektrische netwerken/Netweken (practicum)/DC_Week_1_prj/Vragen.md",
                 "mode": "preview",
                 "source": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elektrische netwerken/Les 1.md",
+                "file": "Elektrische netwerken/Netweken (practicum)/DC_Week_1_prj/Vragen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Elektrische netwerken/Les 1.md",
+                "file": "Elektrische netwerken/Netweken (practicum)/DC_Week_1_prj/Vragen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Elektrische netwerken/Les 1.md"
+                "file": "Elektrische netwerken/Netweken (practicum)/DC_Week_1_prj/Vragen.md"
               }
             }
           },
@@ -154,6 +154,14 @@
             "type": "leaf",
             "state": {
               "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "8efa23b2f74a4104",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
@@ -174,28 +182,29 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "cdf283f63819d723",
   "lastOpenFiles": [
+    "Elektrische netwerken/Les 1.md",
+    "Elektrische netwerken/Netweken (practicum)/DC_Week_1_prj/Vragen.md",
+    "Elektrische netwerken/Netweken (practicum)/DC_Week_1_prj/U_bronnen_serie.dpl",
+    "Elektrische netwerken/Netweken (practicum)/log.txt",
+    "Elektrische netwerken/Netweken (practicum)/DC_Week_1_prj/U_bronnen_serie.dat",
+    "Elektrische netwerken/Netweken (practicum)/netlist.txt",
+    "Elektrische netwerken/Netweken (practicum)/DC_Week_1_prj/U_bronnen_serie.sch",
+    "Elektrische netwerken/Netweken (practicum)/DC_Week_1_prj/V1.sch",
+    "Elektrische netwerken/Netweken (practicum)/DC_Week_1_prj",
+    "Elektrische netwerken/Netweken (practicum)",
     "Elektrische netwerken/PDF/Les 1.pdf",
     "Elektrische netwerken/PDF",
-    "Elektrische netwerken/Nieuwe map",
     "Tangents/Ideale draad.md",
-    "Elektrische netwerken/Les 1.md",
     "Tangents/Stroom.md",
     "Communicatieve Vaardigheden/Les 1.md",
     "Microcontrollers programmeren/Les 1.md",
-    "Communicatieve Vaardigheden",
     "Tangents/Operators.md",
-    "Boeken/make_avrprogramming.pdf",
-    "Microcontrollers programmeren/Code/Les 1 Microcontrollers programmeren/Les_1/main.c",
-    "Microcontrollers programmeren/Code/Les 1 Microcontrollers programmeren/Les_1/Les_1.cbp",
-    "Microcontrollers programmeren/Code/Les 1 Microcontrollers programmeren/Les_1",
-    "Microcontrollers programmeren/Code/Les 1 Microcontrollers programmeren/Les 1 Microcontrollers programmeren.layout",
-    "Microcontrollers programmeren/Code/Les 1 Microcontrollers programmeren/main.c",
-    "Microcontrollers programmeren/Code/Les 1 Microcontrollers programmeren/Les 1 Microcontrollers programmeren.cbp",
     "Statica/Les 1.md",
     "Tangents/Variabele.md",
     "Tangents/Invoer variable.md",
