@@ -25,6 +25,7 @@ $$
 ## Elektrisch vervangingsschema microcontroller
 
 ### [[Microcontroller]]
+![[Microcontroller]]
 ![[Pasted image 20230906100314.png]]
 
 #### Coderen van signalen

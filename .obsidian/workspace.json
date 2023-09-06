@@ -4,26 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "8308c9f8a8e2f040",
-        "type": "tabs",
-        "dimension": 45.271629778672036,
-        "children": [
-          {
-            "id": "341d0585edfbda07",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Slides/Elektrische netwerken/ElNetDC_Week_2_Weerstanden_schakelaars_2022v1.pdf"
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "c999ac04534a3c24",
         "type": "tabs",
-        "dimension": 34.6747149564051,
+        "dimension": 26.964047936085215,
         "children": [
           {
             "id": "095bcf5271cc71d2",
@@ -31,8 +14,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elektrische netwerken/ Les 2.md",
+                "file": "Tangents/Output pin.md",
                 "mode": "source",
+                "source": true
+              }
+            },
+            "group": "5c32322cb540d161"
+          },
+          {
+            "id": "a92763d58da1eef2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tangents/While.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "325a0924e2ef03f0",
+        "type": "tabs",
+        "dimension": 23.901464713715047,
+        "children": [
+          {
+            "id": "20fb6536e2d5b793",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tangents/Output pin.md",
+                "mode": "preview",
                 "source": true
               }
             },
@@ -41,22 +56,19 @@
         ]
       },
       {
-        "id": "325a0924e2ef03f0",
+        "id": "643ba7ff54c20913",
         "type": "tabs",
-        "dimension": 20.05365526492287,
+        "dimension": 49.134487350199734,
         "children": [
           {
-            "id": "20fb6536e2d5b793",
+            "id": "f19d13061605cf4e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Elektrische netwerken/ Les 2.md",
-                "mode": "preview",
-                "source": true
+                "file": "Slides/Microcontrollers programmeren/Week 1B - Leds change.pdf"
               }
-            },
-            "group": "5c32322cb540d161"
+            }
           }
         ]
       }
@@ -104,7 +116,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -125,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elektrische netwerken/ Les 2.md",
+                "file": "Tangents/Output pin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Elektrische netwerken/ Les 2.md",
+                "file": "Tangents/Output pin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Elektrische netwerken/ Les 2.md"
+                "file": "Tangents/Output pin.md"
               }
             }
           },
@@ -208,8 +221,22 @@
   },
   "active": "095bcf5271cc71d2",
   "lastOpenFiles": [
-    "Slides/Elektrische netwerken/ElNetDC_Week_2_Weerstanden_schakelaars_2022v1.pdf",
+    "Slides/Microcontrollers programmeren/Week 1B - Leds change.pdf",
+    "Tangents/Output pin.md",
+    "Microcontrollers programmeren/Les 1B.md",
+    "Bijlages/Pasted image 20230906125714.png",
+    "Tangents/Pinout.md",
+    "Bijlages/Pasted image 20230906125425.png",
+    "Tangents/Pinnummer.md",
+    "Tangents/While.md",
+    "Slides/Microcontrollers programmeren/Week 1B - Leds change.pdf.opdownload",
+    "Slides/Microcontrollers programmeren",
+    "Slides/Nieuwe map",
     "Elektrische netwerken/ Les 2.md",
+    "Statica/Les 1 - Krachten.md",
+    "Microcontrollers programmeren/Les 1.md",
+    "Microcontrollers Programmeren/Les 1B.md",
+    "Slides/Elektrische netwerken/ElNetDC_Week_2_Weerstanden_schakelaars_2022v1.pdf",
     "Tangents/Transistors.md",
     "Bijlages/Pasted image 20230906105953.png",
     "Tangents/Ideale schakelaar.md",
@@ -221,8 +248,6 @@
     "Bijlages/Pasted image 20230906105232.png",
     "Bijlages/Pasted image 20230906105130.png",
     "Bijlages/Pasted image 20230906104943.png",
-    "Bijlages/Pasted image 20230906104224.png",
-    "Bijlages/Pasted image 20230906104019.png",
     "Tangents/spanningsbron.md",
     "Tangents/Engineering notation.md",
     "Tangents/Geleiding.md",
@@ -235,23 +260,11 @@
     "Tangents/Microcontroller.md",
     "Tangents/logische spanningsniveaus.md",
     "Slides/Elektrische netwerken",
-    "Slides/Nieuwe map",
     "Slides",
     "Nieuwe map",
     "Index/Elektrische Netwerken.md",
     "Elektrische netwerken/Netweken (practicum)/DC_Week_1_prj/Practicum 1.md",
-    "Index.md",
-    "Statica/Les 2 - Puntmassa's.md",
-    "Excalidraw/Vrijlichaamschema 1 massapunt.md",
-    "Index/Microcontrollers Programmeren.md",
-    "Index/Statica.md",
-    "Statica/Les 1 - Krachten.md",
     "Microcontrollers programmeren/Code/Practicum 1/Practicum 1.layout",
-    "Boeken/make_avrprogramming.pdf",
-    "Communicatieve Vaardigheden/Les 1.md",
-    "Elektrische netwerken/Les 1.md",
-    "Microcontrollers programmeren/Code/Practicum 1/obj/Debug/ABC-FORMULE.o",
-    "Microcontrollers programmeren/Code/Practicum 1/ABC-FORMULE.c",
-    "Microcontrollers programmeren/Code/Practicum 1/obj/Debug/GETAL.o"
+    "Boeken/make_avrprogramming.pdf"
   ]
 }
