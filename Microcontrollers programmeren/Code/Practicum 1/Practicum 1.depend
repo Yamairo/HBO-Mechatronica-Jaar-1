@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1693662282 source:c:\hbo-mechatronica-jaar-1\microcontrollers programmeren\code\practicum 1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1693660265 source:c:\hbo-mechatronica-jaar-1\microcontrollers programmeren\code\practicum 1\serie.c
+	<stdio.h>
+	<stdlib.h>
+
+1693659576 source:c:\hbo-mechatronica-jaar-1\microcontrollers programmeren\code\practicum 1\parallel.c
+	<stdio.h>
+	<stdlib.h>
+
+1693660344 source:c:\hbo-mechatronica-jaar-1\microcontrollers programmeren\code\practicum 1\groter.c
+	<stdio.h>
+	<stdlib.h>
+
+1693660664 source:c:\hbo-mechatronica-jaar-1\microcontrollers programmeren\code\practicum 1\grijswaarde.c
+	<stdio.h>
+	<stdlib.h>
+
+1693661191 source:c:\hbo-mechatronica-jaar-1\microcontrollers programmeren\code\practicum 1\getal.c
+	<stdio.h>
+	<stdlib.h>
+
+1693662267 source:c:\hbo-mechatronica-jaar-1\microcontrollers programmeren\code\practicum 1\abc-formule.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

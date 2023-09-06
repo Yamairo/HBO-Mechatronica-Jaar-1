@@ -1,4 +1,5 @@
 # Inhoudsopgave
+
 ```toc
 ```
 
@@ -38,7 +39,7 @@ F_{r}=\sqrt{F_{x}^{2}+F_{y}^{2}}\\
 $$
  
 ---
-Voorbeeld 2
+### Voorbeeld 2
 ![[voorbeeld 2]]
 
 *Wat voor hoek moet $\theta$ zijn om de resulterende kracht naar rechts te laten werken?*
@@ -63,7 +64,7 @@ $$
 
 ---
 
-Voorbeeld 3 
+### Voorbeeld 3 
 ![[Voorbeeld 3]]
 
 $$

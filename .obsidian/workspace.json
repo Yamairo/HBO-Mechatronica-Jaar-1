@@ -4,40 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "f7dc2a1da983a2bd",
+        "id": "8308c9f8a8e2f040",
         "type": "tabs",
         "children": [
           {
-            "id": "cdf283f63819d723",
+            "id": "341d0585edfbda07",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elektrische netwerken/Netweken (practicum)/DC_Week_1_prj/Vragen.md",
+                "file": "Elektrische netwerken/ Les 2.md",
                 "mode": "source",
                 "source": true
               }
             },
-            "group": "3633218c88d14c9b"
+            "group": "5b6c4e12c6ce1451"
           }
         ]
       },
       {
-        "id": "12267321868a3e50",
+        "id": "3ce2082d09416ffe",
         "type": "tabs",
         "children": [
           {
-            "id": "a0d60eab6623a8c5",
+            "id": "331a46f6c7abf3e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elektrische netwerken/Netweken (practicum)/DC_Week_1_prj/Vragen.md",
+                "file": "Elektrische netwerken/ Les 2.md",
                 "mode": "preview",
                 "source": true
               }
             },
-            "group": "3633218c88d14c9b"
+            "group": "5b6c4e12c6ce1451"
           }
         ]
       }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elektrische netwerken/Netweken (practicum)/DC_Week_1_prj/Vragen.md",
+                "file": "Elektrische netwerken/ Les 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Elektrische netwerken/Netweken (practicum)/DC_Week_1_prj/Vragen.md",
+                "file": "Elektrische netwerken/ Les 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Elektrische netwerken/Netweken (practicum)/DC_Week_1_prj/Vragen.md"
+                "file": "Elektrische netwerken/ Les 2.md"
               }
             }
           },
@@ -182,48 +182,51 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cdf283f63819d723",
+  "active": "341d0585edfbda07",
   "lastOpenFiles": [
+    "Index/Elektrische Netwerken.md",
+    "Elektrische netwerken/Netweken (practicum)/DC_Week_1_prj/Practicum 1.md",
+    "Index.md",
+    "Elektrische netwerken/ Les 2.md",
+    "Statica/Les 2 - Puntmassa's.md",
+    "Excalidraw/Vrijlichaamschema 1 massapunt.md",
+    "Index/Microcontrollers Programmeren.md",
+    "Index/Statica.md",
+    "Statica/Les 1 - Krachten.md",
+    "Microcontrollers programmeren/Code/Practicum 1/Practicum 1.layout",
+    "Boeken/make_avrprogramming.pdf",
+    "Communicatieve Vaardigheden/Les 1.md",
     "Elektrische netwerken/Les 1.md",
-    "Elektrische netwerken/Netweken (practicum)/DC_Week_1_prj/Vragen.md",
-    "Elektrische netwerken/Netweken (practicum)/DC_Week_1_prj/U_bronnen_serie.dpl",
-    "Elektrische netwerken/Netweken (practicum)/log.txt",
-    "Elektrische netwerken/Netweken (practicum)/DC_Week_1_prj/U_bronnen_serie.dat",
-    "Elektrische netwerken/Netweken (practicum)/netlist.txt",
-    "Elektrische netwerken/Netweken (practicum)/DC_Week_1_prj/U_bronnen_serie.sch",
-    "Elektrische netwerken/Netweken (practicum)/DC_Week_1_prj/V1.sch",
-    "Elektrische netwerken/Netweken (practicum)/DC_Week_1_prj",
-    "Elektrische netwerken/Netweken (practicum)",
-    "Elektrische netwerken/PDF/Les 1.pdf",
-    "Elektrische netwerken/PDF",
+    "Microcontrollers programmeren/Les 1.md",
+    "Methodisch Ontwerpen/Werkcollege/Werkcollege 1.md",
+    "Microcontrollers programmeren/Code/Practicum 1/obj/Debug/ABC-FORMULE.o",
+    "Microcontrollers programmeren/Code/Practicum 1/ABC-FORMULE.c",
+    "Microcontrollers programmeren/Code/Practicum 1/obj/Debug/GETAL.o",
+    "Microcontrollers programmeren/Code/Practicum 1/GETAL.c",
+    "Microcontrollers programmeren/Code/Practicum 1/bin/Debug/Practicum 1.exe",
+    "Microcontrollers programmeren/Code/Practicum 1/obj/Debug/GRIJSWAARDE.o",
+    "Microcontrollers programmeren/Code/Practicum 1/GRIJSWAARDE.c",
+    "Microcontrollers programmeren/Code/Practicum 1/obj/Debug/GROTER.o",
+    "Methodisch Ontwerpen/Les 1.md",
+    "Index/Bassiswiskunde.md",
+    "Index/Communicatieve Vaardigheden.md",
+    "Index/Methodisch Ontwerpen.md",
+    "Tangents/Eisen aan variabele namen.md",
     "Tangents/Ideale draad.md",
     "Tangents/Stroom.md",
-    "Communicatieve Vaardigheden/Les 1.md",
-    "Microcontrollers programmeren/Les 1.md",
     "Tangents/Operators.md",
-    "Statica/Les 1.md",
     "Tangents/Variabele.md",
     "Tangents/Invoer variable.md",
-    "Tangents/Eisen aan variabele namen.md",
     "Tangents/Formatted strings.md",
     "Tangents/Ideale stroommeter.md",
     "Tangents/Ideale spanningsmeter.md",
-    "Tangents/Spanningswet van Kirchhoff.md",
-    "Tangents/Stroomwet van Kirchhoff.md",
     "Bijlages/Pasted image 20230830142322.png",
     "Bijlages/Pasted image 20230830142156.png",
     "Bijlages/Pasted image 20230830142131.png",
-    "Tangents/Spanning.md",
-    "Index.md",
-    "Excalidraw/Voorbeeld 3.md",
-    "Excalidraw/voorbeeld 2.md",
-    "Excalidraw/Voorbeeld 1.md",
-    "Bijlages/Pasted image 20230829133033.png",
-    "Methodisch Ontwerpen/Les 1.md",
-    "README.md"
+    "Bijlages/Pasted image 20230829133033.png"
   ]
 }
