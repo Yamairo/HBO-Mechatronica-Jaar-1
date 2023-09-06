@@ -106,16 +106,16 @@
     "Spanning": {
       "Spanning": {
         "internalLink": {
-          "count": 2,
-          "lastUpdated": 1693398490617
+          "count": 13,
+          "lastUpdated": 1693990809505
         }
       }
     },
     "kirchhoff": {
       "kirchhoff": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1693398130964
+          "count": 2,
+          "lastUpdated": 1693990572600
         }
       }
     },
@@ -244,6 +244,94 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1693916365438
+        }
+      }
+    },
+    "Microcontroller": {
+      "Microcontroller": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1693986988028
+        }
+      }
+    },
+    "logische spanningsniveaus": {
+      "logische spanningsniveaus": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1693987209917
+        }
+      }
+    },
+    "Stroom": {
+      "Stroom": {
+        "internalLink": {
+          "count": 7,
+          "lastUpdated": 1693990533854
+        }
+      }
+    },
+    "Weerstand": {
+      "Weerstand": {
+        "internalLink": {
+          "count": 4,
+          "lastUpdated": 1693988072552
+        }
+      }
+    },
+    "elektrisch": {
+      "elektrisch": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1693987823094
+        }
+      }
+    },
+    "Geleiding": {
+      "Geleiding": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1693988127848
+        }
+      }
+    },
+    "Wet van Ohm": {
+      "Wet van Ohm": {
+        "internalLink": {
+          "count": 6,
+          "lastUpdated": 1693990657106
+        }
+      }
+    },
+    "Spanningswet van Kirchhoff": {
+      "Spanningswet van Kirchhoff": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1693990580039
+        }
+      }
+    },
+    "U_{1}+U_{2}": {
+      "U_{1}+U_{2}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1693990126612
+        }
+      }
+    },
+    "knooppunten": {
+      "knooppunten": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1693990639820
+        }
+      }
+    },
+    "afbeelding": {
+      "afbeelding": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1693990644708
         }
       }
     }
