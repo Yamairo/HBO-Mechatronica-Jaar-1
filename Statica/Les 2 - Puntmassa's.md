@@ -76,3 +76,9 @@ F_{C} = \frac{550}{{\left(\frac{5}{4} \cdot \frac{1}{\cos(30)}  \cdot \sin(30) \
 $$
 
 ---
+
+#Huiswerk 
+- [x] Slides 
+- [ ] Boek
+- [ ] Möbius
+- [ ] Practicum

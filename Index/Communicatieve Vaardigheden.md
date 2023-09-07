@@ -3,4 +3,4 @@
 ```toc
 ```
 
-## [[Communicatieve Vaardigheden/Les 1|Les 1]]
+## [[Les 1 - Niks belangrijks|Les 1 - Niks belangrijks]]

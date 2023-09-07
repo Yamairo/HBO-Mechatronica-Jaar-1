@@ -22,7 +22,7 @@ Je kunt met `//` een [[comment]] toevoegen of met `/**/` een multiline [[comment
 ## Nummers en namen van pinnetjes
 - Op de Arduino zijn alle pins genummerd.
 - De pinnen zijn verbonden met de pinnen van de [[AVR]] 
-- Pinnetjes zijn gegroepeerd in [[banks]] van elk maximaal acht pinnen.
+- Pinnetjes zijn gegroepeerd in [[bank]] van elk maximaal acht pinnen.
 - Lezen en schrijven vanuit software gaat via registers PA, PB, PC, PD etc.
 
 ## Configureer pin

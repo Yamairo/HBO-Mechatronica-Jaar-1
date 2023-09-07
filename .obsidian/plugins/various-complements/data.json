@@ -106,8 +106,8 @@
     "Spanning": {
       "Spanning": {
         "internalLink": {
-          "count": 13,
-          "lastUpdated": 1693990809505
+          "count": 16,
+          "lastUpdated": 1694075584188
         }
       }
     },
@@ -162,8 +162,8 @@
     "Variabele": {
       "Variabele": {
         "internalLink": {
-          "count": 1,
-          "lastUpdated": 1693473673421
+          "count": 4,
+          "lastUpdated": 1694076963052
         }
       }
     },
@@ -186,8 +186,8 @@
     "printf": {
       "printf": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1693474592019
+          "count": 2,
+          "lastUpdated": 1694077907051
         }
       }
     },
@@ -250,8 +250,8 @@
     "Microcontroller": {
       "Microcontroller": {
         "internalLink": {
-          "count": 2,
-          "lastUpdated": 1693997705706
+          "count": 4,
+          "lastUpdated": 1694075966884
         }
       }
     },
@@ -266,8 +266,8 @@
     "Stroom": {
       "Stroom": {
         "internalLink": {
-          "count": 7,
-          "lastUpdated": 1693990533854
+          "count": 10,
+          "lastUpdated": 1694007243899
         }
       }
     },
@@ -330,8 +330,8 @@
     "afbeelding": {
       "afbeelding": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1693990644708
+          "count": 2,
+          "lastUpdated": 1694006271981
         }
       }
     },
@@ -354,16 +354,152 @@
     "Schema": {
       "Schema": {
         "internalLink": {
-          "count": 1,
-          "lastUpdated": 1693997614572
+          "count": 3,
+          "lastUpdated": 1694075570828
         }
       }
     },
     "Pinout": {
       "Pinout": {
         "internalLink": {
+          "count": 2,
+          "lastUpdated": 1694075641084
+        }
+      }
+    },
+    "Elektrische Netwerken": {
+      "Elektrische Netwerken": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1694001112935
+        }
+      }
+    },
+    "MOS-transistoren": {
+      "MOS-transistoren": {
+        "currentFile": {
           "count": 1,
-          "lastUpdated": 1693997686985
+          "lastUpdated": 1694006126726
+        }
+      }
+    },
+    "Gate": {
+      "Gate": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1694006240574
+        }
+      }
+    },
+    "Source": {
+      "Source": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1694006309709
+        }
+      }
+    },
+    "Drain": {
+      "Drain": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1694006306218
+        }
+      }
+    },
+    "Ideale schakelaar": {
+      "Ideale schakelaar": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1694006915691
+        }
+      }
+    },
+    "banks": {
+      "banks": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1694075706772
+        }
+      }
+    },
+    "Output pin": {
+      "Output pin": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1694075778633
+        }
+      }
+    },
+    "documentatie": {
+      "documentatie": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1694075961230
+        }
+      }
+    },
+    "Operators": {
+      "Operators": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1694077373690
+        }
+      }
+    },
+    "gebruiken": {
+      "gebruiken": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1694079327362
+        }
+      }
+    },
+    "int": {
+      "int": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1694079242542
+        }
+      }
+    },
+    "relationele": {
+      "relationele": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1694077395365
+        }
+      }
+    },
+    "adresoperator": {
+      "adresoperator": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1694078934718
+        }
+      }
+    },
+    "kwadraat": {
+      "kwadraat": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1694078986287
+        }
+      }
+    },
+    "float": {
+      "float": {
+        "internalLink": {
+          "count": 4,
+          "lastUpdated": 1694079406414
+        }
+      }
+    },
+    "Formatted strings": {
+      "Formatted strings": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1694079312412
         }
       }
     }

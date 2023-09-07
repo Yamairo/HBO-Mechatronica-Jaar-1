@@ -1,8 +1,3 @@
-# Inhoud
-
-```toc
-```
-
 ## Symbolen
 
 ![[Pasted image 20230906104943.png]]

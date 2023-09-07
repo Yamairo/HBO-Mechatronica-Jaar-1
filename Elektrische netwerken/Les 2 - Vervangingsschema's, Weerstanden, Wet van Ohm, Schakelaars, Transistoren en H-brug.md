@@ -91,20 +91,22 @@ Deze hindernis noemen we een  [[Weerstand]]. Hiervoor geld ![[Wet van Ohm]]
 |            | 2      | 20 m      |
 
 ## Het uitwerken van berekeningen
-
+---
 - In een baan
 	- Wil je grotere berekeningen kunnen maken zonder fouten
 	- Moeten je collega's je werk kunnen overnemen
 - Op de toets:
 	- Wil je laten zien dat je het snapt
 	- Wil je ook voor goede tussenstappen punten krijgen
-
+---
 
 ### Voorbeeld opschrijven berekening
 **Opgave**
 Twee penlite-batterijen van 1,5 V staan in serie, en voeden een weerstand van 100 Ω.
 
 *Bereken de stroom door de weerstand.*
+
+---
 
 #### Uitwerking stap 1
 - Vertaal de situatie naar een [[Schema]]
@@ -141,7 +143,7 @@ $$
 
 #### Uitwerking stap 3
 
-- UR is nog onbekend, maar te vinden.
+- $U_{R}$ is nog onbekend, maar te vinden.
 - Vis uit je geheugen de tweede wet die je hier kunt gebruiken. En noem die wet, schrijf die naam op: 
 - Schrijf daarna die wet op als formule, met de symbolen die hier gelden: 
 - Omschrijven, nog geen getallen invullen!
@@ -180,20 +182,20 @@ $$
 ### [[Bouncing]], denderen 
 ![[Bouncing]]
 
-### Effect schakelaar op [[Stroom]] 
+### Effect schakelaar op Stroom
 
-#### Schakelaar open : [[Stroom]] 
+#### Schakelaar open : Stroom
 ![[Pasted image 20230906105327.png]]
-- Geen stroom $I=0A$
+- Geen [[Stroom]]  $I=0A$
 
-#### Schakelaar dicht : [[Stroom]] 
+#### Schakelaar dicht : Stroom
 ![[Pasted image 20230906105407.png]]
-- Stroom loopt
+- [[Stroom]]  loopt
 - [[Wet van Ohm]] : $I=\frac{U}{R}= 0,6A$
 
-### Effect schakelaar op [[Spanning]] 
+### Effect schakelaar op Spanning
 
-#### Schakelaar dicht : [[Spanning]] 
+#### Schakelaar dicht : Spanning
 ![[Pasted image 20230906105544.png]]
 - Twee knooppunten (zie afbeelding)
 - [[Spanning]] over R via [[Spanningswet van Kirchhoff]] :
@@ -201,7 +203,7 @@ $$
 U_{R}=U=6V
 $$
 
-#### Schakelaar open : [[Spanning]] 
+#### Schakelaar open : Spanning
 ![[Pasted image 20230906105713.png]]
 - Drie knooppunten (zie afbeelding)
 - [[Spanning]] over R via [[Wet van Ohm]] .
@@ -210,7 +212,8 @@ $$
 ## [[Transistors]]
 ![[Transistors]]
 
-### MOS-transistoren
+### [[MOS-transistor]]
+![[MOS-transistor]]
 
 ## H-brug
 

@@ -8,7 +8,7 @@
 ## [[Spanning]]
 [[Spanning]] is de **potentiële energie** van een lading. En wordt weergeven met U voor volt. Spanning zorgt ervoor dat een lading zich voortbeweegt. 1 volt kan worden vertaald naar Joule/coulomb.
 
-	---
+---
 *Stel je hebt een stroom van $I = 2A$ en een spanning van $U = 12V$ wat zal dan de energie E zijn na 10 seconden?*
 
 **$2A = 2\ coulonb/seconde$
@@ -62,8 +62,8 @@ Je meet een spanning parallel.
 ![[Ideale stroommeter]]
 Je meet een stroom door deze serie te schakelen in het circuit.
 
-## Huiswerk 
-- [ ] Slides
-- [ ] Boek
+#Huiswerk 
+- [x] Slides [completion:: 2023-09-07]
+- [x] Boek [completion:: 2023-09-07]
 - [ ] Möbius
-- [ ] 
+- [ ] Practicum

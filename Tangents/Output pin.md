@@ -1,8 +1,8 @@
 Datasheet hoofdstuk I/O-Ports: 
 - DDRx register (Data Direction Register) bepaalt input/output.
-- Een 1 op de juiste plaats maakt de corresponderende pin output.
+- Een `1` op de juiste plaats maakt de corresponderende pin output.
 - PORTx register bepaalt de waarde op de output. 
-- Een 1 op de juiste plaats maakt de corresponderende pin hoog.
+- Een `1` op de juiste plaats maakt de corresponderende pin hoog.
 ![[Pasted image 20230906125714.png
 
 ---

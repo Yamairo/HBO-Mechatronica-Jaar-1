@@ -4,71 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "c999ac04534a3c24",
+        "id": "84ef2e6868ef48f1",
         "type": "tabs",
-        "dimension": 26.964047936085215,
         "children": [
           {
-            "id": "095bcf5271cc71d2",
+            "id": "9261643dbc25c98f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tangents/Output pin.md",
+                "file": "Microcontrollers programmeren/Les 2 -.md",
                 "mode": "source",
                 "source": true
               }
             },
-            "group": "5c32322cb540d161"
-          },
-          {
-            "id": "a92763d58da1eef2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tangents/While.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
+            "group": "262337049ef5abf1"
           }
         ]
       },
       {
-        "id": "325a0924e2ef03f0",
+        "id": "dc14ac2f6039bc31",
         "type": "tabs",
-        "dimension": 23.901464713715047,
         "children": [
           {
-            "id": "20fb6536e2d5b793",
+            "id": "b63dd0c1ca340243",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tangents/Output pin.md",
+                "file": "Microcontrollers programmeren/Les 2 -.md",
                 "mode": "preview",
                 "source": true
               }
             },
-            "group": "5c32322cb540d161"
-          }
-        ]
-      },
-      {
-        "id": "643ba7ff54c20913",
-        "type": "tabs",
-        "dimension": 49.134487350199734,
-        "children": [
-          {
-            "id": "f19d13061605cf4e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Slides/Microcontrollers programmeren/Week 1B - Leds change.pdf"
-              }
-            }
+            "group": "262337049ef5abf1"
           }
         ]
       }
@@ -117,12 +86,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "556d6bd278b78e64",
@@ -138,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tangents/Output pin.md",
+                "file": "Microcontrollers programmeren/Les 2 -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tangents/Output pin.md",
+                "file": "Microcontrollers programmeren/Les 2 -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tangents/Output pin.md"
+                "file": "Microcontrollers programmeren/Les 2 -.md"
               }
             }
           },
@@ -219,52 +187,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "095bcf5271cc71d2",
+  "active": "9261643dbc25c98f",
   "lastOpenFiles": [
-    "Slides/Microcontrollers programmeren/Week 1B - Leds change.pdf",
-    "Tangents/Output pin.md",
-    "Microcontrollers programmeren/Les 1B.md",
-    "Bijlages/Pasted image 20230906125714.png",
-    "Tangents/Pinout.md",
-    "Bijlages/Pasted image 20230906125425.png",
+    "Boeken/Russell C. Hibbeler - Engineering Mechanics_ Statics in SI Units-Pearson Higher Ed (2016).pdf",
+    "Tangents/float.md",
+    "Microcontrollers programmeren/Les 2 -.md",
+    "Tangents/Operators.md",
+    "Tangents/Variabele.md",
+    "Tangents/bank.md",
+    "Tangents/MOS-transistor.md",
+    "Slides/Elektrische netwerken/ElNetDC_Week_2_Weerstanden_schakelaars_2022v1.pdf",
+    "Tangents/Outputs.md",
     "Tangents/Pinnummer.md",
+    "Tangents/Pinout.md",
+    "Tangents/Schema.md",
+    "Tangents/Source.md",
+    "Tangents/Spanning.md",
+    "Tangents/Stroom.md",
+    "Tangents/Spanningswet van Kirchhoff.md",
+    "Tangents/Stroomwet van Kirchhoff.md",
+    "Templates/Componentbeschrijving.md",
+    "Templates/Aantekeningen.md",
+    "Tangents/Weerstand.md",
+    "Tangents/Wet van Ohm.md",
     "Tangents/While.md",
+    "Tangents/Weerstanden.md",
+    "Tangents/Bouncing.md",
+    "Tangents/Gate.md",
+    "Tangents/Ideale schakelaar.md",
+    "Tangents/Ideale spanningsmeter.md",
+    "Templates",
+    "Bijlages/Pasted image 20230906151927.png",
+    "Bijlages/Pasted image 20230906151913.png",
+    "Slides/Microcontrollers programmeren/Week 1B - Leds change.pdf",
+    "Bijlages/Pasted image 20230906125714.png",
+    "Bijlages/Pasted image 20230906125425.png",
     "Slides/Microcontrollers programmeren/Week 1B - Leds change.pdf.opdownload",
     "Slides/Microcontrollers programmeren",
     "Slides/Nieuwe map",
-    "Elektrische netwerken/ Les 2.md",
-    "Statica/Les 1 - Krachten.md",
-    "Microcontrollers programmeren/Les 1.md",
-    "Microcontrollers Programmeren/Les 1B.md",
-    "Slides/Elektrische netwerken/ElNetDC_Week_2_Weerstanden_schakelaars_2022v1.pdf",
-    "Tangents/Transistors.md",
     "Bijlages/Pasted image 20230906105953.png",
-    "Tangents/Ideale schakelaar.md",
     "Bijlages/Pasted image 20230906105713.png",
     "Bijlages/Pasted image 20230906105544.png",
     "Bijlages/Pasted image 20230906105407.png",
     "Bijlages/Pasted image 20230906105327.png",
-    "Tangents/Bouncing.md",
     "Bijlages/Pasted image 20230906105232.png",
-    "Bijlages/Pasted image 20230906105130.png",
-    "Bijlages/Pasted image 20230906104943.png",
-    "Tangents/spanningsbron.md",
-    "Tangents/Engineering notation.md",
-    "Tangents/Geleiding.md",
-    "Tangents/Weerstand.md",
-    "Tangents/weerstand.md",
-    "Tangents/Weerstanden.md",
-    "Tangents/Wet van Ohm.md",
-    "Tangents/Outputs.md",
-    "Tangents/Inputs.md",
-    "Tangents/Microcontroller.md",
-    "Tangents/logische spanningsniveaus.md",
     "Slides/Elektrische netwerken",
     "Slides",
     "Nieuwe map",
-    "Index/Elektrische Netwerken.md",
-    "Elektrische netwerken/Netweken (practicum)/DC_Week_1_prj/Practicum 1.md",
-    "Microcontrollers programmeren/Code/Practicum 1/Practicum 1.layout",
-    "Boeken/make_avrprogramming.pdf"
+    "Microcontrollers programmeren/Code/Practicum 1/Practicum 1.layout"
   ]
 }
