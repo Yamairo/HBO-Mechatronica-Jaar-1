@@ -50,16 +50,16 @@
     "\\end{align}": {
       "\\end{align}": {
         "currentFile": {
-          "count": 6,
-          "lastUpdated": 1693914753674
+          "count": 8,
+          "lastUpdated": 1694510601895
         }
       }
     },
     "\\begin{align}": {
       "\\begin{align}": {
         "currentFile": {
-          "count": 4,
-          "lastUpdated": 1693914750739
+          "count": 6,
+          "lastUpdated": 1694510597034
         }
       }
     },
@@ -106,8 +106,8 @@
     "Spanning": {
       "Spanning": {
         "internalLink": {
-          "count": 16,
-          "lastUpdated": 1694075584188
+          "count": 18,
+          "lastUpdated": 1694093830391
         }
       }
     },
@@ -218,8 +218,8 @@
     "Microcontrollers Programmeren": {
       "Microcontrollers Programmeren": {
         "internalLink": {
-          "count": 1,
-          "lastUpdated": 1693568821441
+          "count": 2,
+          "lastUpdated": 1694351399587
         }
       }
     },
@@ -234,8 +234,8 @@
     "Statica": {
       "Statica": {
         "internalLink": {
-          "count": 1,
-          "lastUpdated": 1693911785432
+          "count": 3,
+          "lastUpdated": 1694353500555
         }
       }
     },
@@ -266,8 +266,8 @@
     "Stroom": {
       "Stroom": {
         "internalLink": {
-          "count": 10,
-          "lastUpdated": 1694007243899
+          "count": 12,
+          "lastUpdated": 1694093859159
         }
       }
     },
@@ -370,8 +370,8 @@
     "Elektrische Netwerken": {
       "Elektrische Netwerken": {
         "internalLink": {
-          "count": 2,
-          "lastUpdated": 1694001112935
+          "count": 4,
+          "lastUpdated": 1694353291466
         }
       }
     },
@@ -458,8 +458,8 @@
     "int": {
       "int": {
         "internalLink": {
-          "count": 3,
-          "lastUpdated": 1694079242542
+          "count": 4,
+          "lastUpdated": 1694160210175
         }
       }
     },
@@ -490,8 +490,8 @@
     "float": {
       "float": {
         "internalLink": {
-          "count": 4,
-          "lastUpdated": 1694079406414
+          "count": 5,
+          "lastUpdated": 1694160198563
         }
       }
     },
@@ -500,6 +500,178 @@
         "internalLink": {
           "count": 3,
           "lastUpdated": 1694079312412
+        }
+      }
+    },
+    "maatregelen": {
+      "maatregelen": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1694092335319
+        }
+      }
+    },
+    "Gebod": {
+      "Gebod": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1694092748616
+        }
+      }
+    },
+    "Markeringen": {
+      "Markeringen": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1694092849035
+        }
+      }
+    },
+    "Persoonlijke": {
+      "Persoonlijke": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1694092965587
+        }
+      }
+    },
+    "Handelt": {
+      "Handelt": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1694092989243
+        }
+      }
+    },
+    "Longen": {
+      "Longen": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1694093387897
+        }
+      }
+    },
+    "werkplek": {
+      "werkplek": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1694093437302
+        }
+      }
+    },
+    "gevarendiamant": {
+      "gevarendiamant": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1694093564469
+        }
+      }
+    },
+    "Electriciteit": {
+      "Electriciteit": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1694093776211
+        }
+      }
+    },
+    "Noodsituaties": {
+      "Noodsituaties": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1694094891269
+        }
+      }
+    },
+    "Bassiswiskunde": {
+      "Bassiswiskunde": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1694351408566
+        }
+      }
+    },
+    "2023-09-22": {
+      "2023-09-22": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1694352850103
+        }
+      }
+    },
+    "2023-10-06": {
+      "2023-10-06": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1694351965303
+        }
+      }
+    },
+    "2023-10-13": {
+      "2023-10-13": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1694351973754
+        }
+      }
+    },
+    "2023-10-19": {
+      "2023-10-19": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1694351977510
+        }
+      }
+    },
+    "40abH12": {
+      "40abH12": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1694353748450
+        }
+      }
+    },
+    "richtingscoëfficiënt": {
+      "richtingscoëfficiënt": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1694508480801
+        },
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1694508548454
+        }
+      }
+    },
+    "\\text{richtingscoëfficiënt}\\\\": {
+      "\\text{richtingscoëfficiënt}\\\\": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1694508357321
+        }
+      }
+    },
+    "vergelijking": {
+      "vergelijking": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1694508587666
+        }
+      }
+    },
+    "lijnen": {
+      "lijnen": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1694509087281
+        }
+      }
+    },
+    "functies": {
+      "functies": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1694509802000
         }
       }
     }

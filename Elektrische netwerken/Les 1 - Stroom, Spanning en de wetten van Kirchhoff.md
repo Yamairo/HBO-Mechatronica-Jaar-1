@@ -66,4 +66,5 @@ Je meet een stroom door deze serie te schakelen in het circuit.
 - [x] Slides [completion:: 2023-09-07]
 - [x] Boek [completion:: 2023-09-07]
 - [ ] Möbius
+- [ ] De beoordeling van dit practicum gaat via Möbius. Hier vind je naast dit document een inleverpunt. Hier typ je de waarden in die je berekend hebt bij het laatste onderdeel (‘KVL en KCL gecombineerd’).
 - [ ] Practicum

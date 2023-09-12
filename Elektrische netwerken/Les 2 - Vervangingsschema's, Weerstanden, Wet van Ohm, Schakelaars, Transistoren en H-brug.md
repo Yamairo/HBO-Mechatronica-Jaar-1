@@ -217,3 +217,5 @@ $$
 
 ## H-brug
 
+#Huiswerk 
+- [ ] Onderdeel 4: De getallen van de pull-upweerstand: ‘normaal’, via Möbius. Dus wel verplicht.

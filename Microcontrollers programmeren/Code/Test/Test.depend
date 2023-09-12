@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1694179657 source:c:\hbo-mechatronica-jaar-1\microcontrollers programmeren\code\test\fuse.c
+	<avr/io.h>
+
+1694181417 source:c:\hbo-mechatronica-jaar-1\microcontrollers programmeren\code\test\main.c
+	<avr/io.h>
+	<util/delay.h>
+
+1694181702 source:c:\hbo-mechatronica-jaar-1\microcontrollers programmeren\code\test\2hz.c
+	<avr/io.h>
+	<util/delay.h>
+
+1694182143 source:c:\hbo-mechatronica-jaar-1\microcontrollers programmeren\code\test\1hz.c
+	<avr/io.h>
+	<util/delay.h>
+

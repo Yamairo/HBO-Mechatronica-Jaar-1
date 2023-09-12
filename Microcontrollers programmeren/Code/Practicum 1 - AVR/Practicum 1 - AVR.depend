@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1694178739 source:c:\hbo-mechatronica-jaar-1\microcontrollers programmeren\code\practicum 1 - avr\main.c
+	<avr/io.h>
+	<util/delay.h>
+

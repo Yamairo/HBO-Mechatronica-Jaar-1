@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1694179169 source:c:\hbo-mechatronica-jaar-1\microcontrollers programmeren\code\practicum 1 avr\fuse.c
+	<avr/io.h>
+
+1694179374 source:c:\hbo-mechatronica-jaar-1\microcontrollers programmeren\code\practicum 1 avr\main.c
+	<avr/io.h>
+	<util/delay.h>
+
