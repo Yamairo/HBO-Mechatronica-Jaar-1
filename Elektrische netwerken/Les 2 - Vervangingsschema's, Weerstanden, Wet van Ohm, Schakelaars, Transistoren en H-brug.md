@@ -1,3 +1,7 @@
+---
+created: 2023-09-13T11:02
+updated: 2023-09-13T09:50
+---
 # Inhoudsopgave
 
 ```toc
@@ -215,7 +219,8 @@ $$
 ### [[MOS-transistor]]
 ![[MOS-transistor]]
 
-## H-brug
+## [[H-brug]]
+
 
 #Huiswerk 
 - [ ] Onderdeel 4: De getallen van de pull-upweerstand: ‘normaal’, via Möbius. Dus wel verplicht.

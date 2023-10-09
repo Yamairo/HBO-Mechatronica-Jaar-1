@@ -1,3 +1,7 @@
+---
+created: 2023-09-13T11:02
+updated: 2023-09-14T19:58
+---
 ```dataview
 CALENDAR file.cday
 ```
@@ -43,7 +47,7 @@ CALENDAR file.cday
 ## [[Statica]] 
 - [ ] [[Statica]] week 3 @due(2023-09-17)
 	- [ ] Möbius 
-	- [ ] F4.7, 4.27, 4.14 
+	- [x] F4.7, 4.27, 4.14 
 	- [ ] *Evt. vooruitwerken met F5.3 (bereken de krachten op de omgeving)*
 - [ ] [[Statica]] week 4 @due(2023-09-24)
 	- [ ] Möbius 
@@ -66,13 +70,15 @@ CALENDAR file.cday
 
 
 ## [[Elektrische Netwerken]] 
-- [ ] [[Elektrische Netwerken]] week 1 @due(2023-09-17)
+- [ ] [[Elektrische Netwerken]] week 3 @due(2023-09-17)
+	- [ ] Leer de slides
+	- [ ] Leer uit het boek - optioneel
 	- [ ] Opgaven in Möbius
-- [ ]  [[Elektrische Netwerken]] week 1 @due(2023-09-24)
+- [ ]  [[Elektrische Netwerken]] week 4 @due(2023-09-24)
 	- [ ] Opgaven in Möbius
-- [ ]  [[Elektrische Netwerken]] week 1 @due(2023-10-01)
+- [ ]  [[Elektrische Netwerken]] week 5 @due(2023-10-01)
 	- [ ] Opgaven in Möbius
-- [ ]  [[Elektrische Netwerken]] week 1 @due(2023-10-08)
+- [ ]  [[Elektrische Netwerken]] week 6 @due(2023-10-08)
 	- [ ] Opgaven in Möbius
-- [ ]  [[Elektrische Netwerken]] week 1 @due(2023-10-15)
+- [ ]  [[Elektrische Netwerken]] week 7 @due(2023-10-15)
 	- [ ] Opgaven in Möbius
