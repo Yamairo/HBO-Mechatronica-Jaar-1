@@ -1,3 +1,7 @@
+---
+created: 2024-01-11T23:22
+updated: 2024-09-05T10:54
+---
 # Uitleg
 - Een Operator  heeeeft een of meer **operanden** van een bepaald [[type]], met een bepaalde **waarde**
 - De operatie heeft als resultaat ook iets van een bepaald [[type]] met een bepaalde waarde.

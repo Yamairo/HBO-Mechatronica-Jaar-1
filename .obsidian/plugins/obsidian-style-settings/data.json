@@ -2,7 +2,6 @@
   "obsidian-prism-theme@@color-schemes-dt": "pt-color-scheme-custom-dt",
   "obsidian-prism-theme@@dark-accent-color-preset": "pt-accent-color-red-dt",
   "obsidian-prism-theme@@highlight-text-accent-dt": "pt-highlight-text-accent-dt",
-  "wikipedia-theme@@theme-colors": "wiki-accent",
   "maple-plugin@@calendar-swap-year-month": false,
   "maple-basic@@color-use-custom": true,
   "maple-workspace@@titlebar-colorful": true,
@@ -21,5 +20,10 @@
   "minimal-advanced@@styled-scrollbars": true,
   "minimal-style@@base@@light": "#FFFFFF",
   "minimal-style@@bg1@@light": "#E5CBD7",
-  "minimal-style@@bg2@@light": "#C0FFBC"
+  "minimal-style@@bg2@@light": "#C0FFBC",
+  "wikipedia-theme@@img-max-width": 100,
+  "wikipedia-theme@@img-width-custom": "500px",
+  "wikipedia-theme@@image-width": "unset",
+  "wikipedia-theme@@image-placement": "float-center",
+  "a-unique-id@@the-color": "#0DD0D0"
 }

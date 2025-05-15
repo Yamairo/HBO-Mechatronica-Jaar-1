@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1733817621 source:c:\hbo-mechatronica-jaar-1\microcontrollers programmeren\code\portaalkraan\pwm\fuse.c
+	<avr/io.h>
+

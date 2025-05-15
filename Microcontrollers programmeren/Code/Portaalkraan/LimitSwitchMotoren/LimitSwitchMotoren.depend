@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1706702953 source:c:\hbo-mechatronica-jaar-1\microcontrollers programmeren\code\portaalkraan\limitswitchmotoren\fuse.c
+	<avr/io.h>
+
+1706704705 source:c:\hbo-mechatronica-jaar-1\microcontrollers programmeren\code\portaalkraan\limitswitchmotoren\main.c
+	<avr/io.h>
+

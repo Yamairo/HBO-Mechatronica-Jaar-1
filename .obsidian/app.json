@@ -7,6 +7,7 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "Tangents",
   "pdfExportSettings": {
+    "includeName": true,
     "pageSize": "Letter",
     "landscape": false,
     "margin": "0",

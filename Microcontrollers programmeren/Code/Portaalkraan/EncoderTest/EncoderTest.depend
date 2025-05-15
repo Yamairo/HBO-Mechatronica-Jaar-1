@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1706525606 source:c:\hbo-mechatronica-jaar-1\microcontrollers programmeren\code\portaalkraan\encodertest\fuse.c
+	<avr/io.h>
+
+1706711768 source:c:\hbo-mechatronica-jaar-1\microcontrollers programmeren\code\portaalkraan\encodertest\main.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	<util/delay.h>
+
